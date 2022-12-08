@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "day": "node index.js"
+  }
+}
